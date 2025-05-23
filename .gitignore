@@ -1,0 +1,6 @@
+__pycache__/
+logs/
+reports/
+screenshots/
+.idea/
+pytest_output.log
