@@ -144,3 +144,96 @@
 2025-05-23 17:18:34::INFO::***********starting add customer test *************
 2025-05-23 17:19:10::INFO::***************test valid smartcare login started*******************
 2025-05-23 17:19:17::INFO::**************test verification title matched********************
+2025-05-23 18:19:33::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-23 18:19:40::INFO::***********Login completed *************
+2025-05-23 18:19:40::INFO::***********starting add customer test *************
+2025-05-23 18:20:28::INFO::***************test valid smartcare login started*******************
+2025-05-23 18:20:33::INFO::**************test verification title matched********************
+2025-05-23 18:22:22::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-23 18:22:29::INFO::***********Login completed *************
+2025-05-23 18:22:29::INFO::***********starting add customer test *************
+2025-05-23 18:23:33::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-23 18:23:37::INFO::***********Login completed *************
+2025-05-23 18:23:37::INFO::***********starting add customer test *************
+2025-05-23 18:24:12::INFO::***************test valid smartcare login started*******************
+2025-05-23 18:24:15::INFO::**************test verification title matched********************
+2025-05-23 18:30:42::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-23 18:30:47::INFO::***********Login completed *************
+2025-05-23 18:30:47::INFO::***********starting add customer test *************
+2025-05-23 18:33:23::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-23 18:33:27::INFO::***********Login completed *************
+2025-05-23 18:33:27::INFO::***********starting add customer test *************
+2025-05-23 18:34:01::INFO::***************test valid smartcare login started*******************
+2025-05-23 18:34:06::INFO::**************test verification title matched********************
+2025-05-23 18:35:16::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-23 18:35:20::INFO::***********Login completed *************
+2025-05-23 18:35:20::INFO::***********starting add customer test *************
+2025-05-23 18:35:54::INFO::***************test valid smartcare login started*******************
+2025-05-23 18:35:58::INFO::**************test verification title matched********************
+2025-05-23 19:15:49::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-23 19:15:55::INFO::***********Login completed *************
+2025-05-23 19:15:55::INFO::***********starting add customer test *************
+2025-05-23 19:16:44::INFO::**************Patient not Created********************
+2025-05-23 19:18:56::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-23 19:19:05::INFO::***********Login completed *************
+2025-05-23 19:19:05::INFO::***********starting add customer test *************
+2025-05-23 19:19:38::INFO::**************Patient not Created********************
+2025-05-23 19:19:48::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-23 19:19:53::INFO::***********Login completed *************
+2025-05-23 19:19:53::INFO::***********starting add customer test *************
+2025-05-23 19:20:26::INFO::**************Patient not Created********************
+2025-05-23 19:20:33::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-23 19:20:38::INFO::***********Login completed *************
+2025-05-23 19:20:38::INFO::***********starting add customer test *************
+2025-05-23 19:21:10::INFO::**************Patient not Created********************
+2025-05-23 19:30:03::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-23 19:30:19::INFO::***********Login completed *************
+2025-05-23 19:30:19::INFO::***********starting add customer test *************
+2025-05-24 23:41:18::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-24 23:41:26::INFO::***********Login completed *************
+2025-05-24 23:41:26::INFO::***********starting add customer test *************
+2025-05-24 23:42:17::INFO::***************test valid smartcare login started*******************
+2025-05-24 23:42:23::INFO::**************test verification title matched********************
+2025-05-25 00:03:53::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-25 00:03:59::INFO::***********Login completed *************
+2025-05-25 00:03:59::INFO::***********starting add customer test *************
+2025-05-25 16:56:36::WARNING::There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2025-05-25 16:56:36::WARNING::Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-05-25 16:56:39::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-25 16:56:43::WARNING::There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2025-05-25 16:58:20::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-25 16:58:27::INFO::***********Login completed *************
+2025-05-25 16:58:27::INFO::***********starting add customer test *************
+2025-05-25 17:00:21::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-25 17:00:57::INFO::***********Login completed *************
+2025-05-25 17:00:57::INFO::***********starting add customer test *************
+2025-05-25 17:01:35::INFO::***************test valid smartcare login started*******************
+2025-05-25 17:04:25::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-25 17:04:32::INFO::***********Login completed *************
+2025-05-25 17:04:32::INFO::***********starting add customer test *************
+2025-05-25 17:05:08::INFO::***************test valid smartcare login started*******************
+2025-05-25 17:05:17::INFO::**************test verification title matched********************
+2025-05-26 11:05:08::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-26 11:05:15::INFO::***********Login completed *************
+2025-05-26 11:05:15::INFO::***********starting add customer test *************
+2025-05-26 11:06:50::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-26 11:06:57::INFO::***********Login completed *************
+2025-05-26 11:06:57::INFO::***********starting add customer test *************
+2025-05-26 11:07:34::INFO::***************test valid smartcare login started*******************
+2025-05-26 11:07:40::INFO::**************test verification title matched********************
+2025-05-26 11:08:14::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-26 11:09:36::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-26 11:09:44::INFO::***********Login completed *************
+2025-05-26 11:09:44::INFO::***********starting add customer test *************
+2025-05-26 11:10:20::INFO::***************test valid smartcare login started*******************
+2025-05-26 11:10:28::INFO::**************test verification title matched********************
+2025-05-26 11:11:58::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-26 11:12:05::INFO::***********Login completed *************
+2025-05-26 11:12:05::INFO::***********starting add customer test *************
+2025-05-26 11:12:42::INFO::***************test valid smartcare login started*******************
+2025-05-26 11:12:49::INFO::**************test verification title matched********************
+2025-05-26 12:09:43::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-05-26 12:09:51::INFO::***********Login completed *************
+2025-05-26 12:09:51::INFO::***********starting add customer test *************
+2025-05-26 12:10:44::INFO::***************test valid smartcare login started*******************
+2025-05-26 12:10:49::INFO::**************test verification title matched********************

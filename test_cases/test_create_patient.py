@@ -36,6 +36,18 @@ class Test_02_Create_New_Patient:
         self.add_patient.select_male()
         self.add_patient.enter_age("26")
         self.add_patient.click_save_btn()
+        # act_message = "q-notification__message"
+        # exp_message = "New Patient is successfuly created"
+        # if act_message == exp_message:
+        #     self.logger.info("**************Patient Created********************")
+        #     assert True
+        #     self.driver.close()
+        # else:
+        #     self.driver.save_screenshot(".\\screenshots\\test_create_patient.png")
+        #     self.logger.info("**************Patient not Created********************")
+        #     self.driver.close()
+
+
 
         self.driver.close()
 

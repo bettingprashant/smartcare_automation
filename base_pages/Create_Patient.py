@@ -77,3 +77,6 @@ class Create_Patient:
         ).click()
         # self.driver.find_element(By.XPATH, self.save_btn_xpath)
 
+
+
+
