@@ -76,7 +76,6 @@ class Create_Patient:
             EC.element_to_be_clickable((By.XPATH,self.save_btn_xpath))
         ).click()
         # self.driver.find_element(By.XPATH, self.save_btn_xpath)
-
-
+        time.sleep(5)
 
 

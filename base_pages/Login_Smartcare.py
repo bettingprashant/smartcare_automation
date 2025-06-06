@@ -1,3 +1,5 @@
+import time
+
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
@@ -32,3 +34,4 @@ class Login_Doctor_Page:
 
     def click_login(self):
         self.driver.find_element(By.XPATH, self.login_btn_xpath).click()
+        time.sleep(10)
