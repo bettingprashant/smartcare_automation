@@ -17,7 +17,7 @@ class Book_Appointment:
 
     select_role_xpath = "//*[@class ='role-manage-list-card doctor-color']"
     doctor_consultation_btn_xpath = "//div[@class='col-lg-51 p-0 desk-show']//li[3]//a[1]//div[1]//span[1]//img[1]"
-    slot_time_xpath = "//div[normalize-space()='7:30 - 8:00']"
+    slot_time_xpath = "//div[normalize-space()='9:30 - 10:00']"
     patient_search_xpath = "//*[@placeholder='Search patient']"
     select_patient_xpath = "//body[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ul[1]/li[1]/span[1]"
     book_now_btn_xpath = "//span[contains(text(),'Book Now')]"
