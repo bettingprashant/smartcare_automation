@@ -539,3 +539,27 @@
 2025-06-06 13:42:32::INFO::******************Test_03_Appointment_Booking_Started*********************
 2025-06-06 13:42:45::INFO::***********Login completed *************
 2025-06-06 13:42:45::INFO::***********Starting Appointment Booking*************
+2025-06-06 13:50:56::INFO::******************Test_03_Appointment_Booking_Started*********************
+2025-06-06 13:51:09::INFO::***********Login completed *************
+2025-06-06 13:51:09::INFO::***********Starting Appointment Booking*************
+2025-06-06 13:53:24::INFO::******************Test_03_Appointment_Booking_Started*********************
+2025-06-06 13:53:38::INFO::***********Login completed *************
+2025-06-06 13:53:38::INFO::***********Starting Appointment Booking*************
+2025-06-06 15:32:01::WARNING::There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2025-06-06 15:32:01::WARNING::Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-06-06 15:32:05::INFO::******************Test_03_Appointment_Booking_Started*********************
+2025-06-06 15:40:24::INFO::******************Test_03_Appointment_Booking_Started*********************
+2025-06-06 15:40:39::INFO::***********Login completed *************
+2025-06-06 15:40:39::INFO::***********Starting Appointment Booking*************
+2025-06-06 15:44:19::INFO::******************Test_03_Appointment_Booking_Started*********************
+2025-06-06 15:44:34::INFO::***********Login completed *************
+2025-06-06 15:44:34::INFO::***********Starting Appointment Booking*************
+2025-06-06 16:06:24::INFO::******************Test_03_Appointment_Booking_Started*********************
+2025-06-06 16:06:39::INFO::***********Login completed *************
+2025-06-06 16:06:39::INFO::***********Starting Appointment Booking*************
+2025-06-06 16:08:59::INFO::******************Test_03_Appointment_Booking_Started*********************
+2025-06-06 16:09:18::INFO::***********Login completed *************
+2025-06-06 16:09:18::INFO::***********Starting Appointment Booking*************
+2025-06-06 16:12:37::INFO::******************Test_03_Appointment_Booking_Started*********************
+2025-06-06 16:12:51::INFO::***********Login completed *************
+2025-06-06 16:12:51::INFO::***********Starting Appointment Booking*************
