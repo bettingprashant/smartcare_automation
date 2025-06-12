@@ -17,6 +17,7 @@ class Book_Appointment:
 
     select_role_xpath = "//*[@class ='role-manage-list-card doctor-color']"
     doctor_consultation_btn_xpath = "//div[@class='col-lg-51 p-0 desk-show']//li[3]//a[1]//div[1]//span[1]//img[1]"
+    start_shift_xpath = "//span[@class='block']"
     slot_time_xpath = "//div[normalize-space()='7:30 - 8:00']"
     patient_search_xpath = "//*[@placeholder='Search patient']"
     select_patient_xpath = "//body[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ul[1]/li[1]/span[1]"
@@ -45,6 +46,11 @@ class Book_Appointment:
     def doctor_consultation_btn(self):
         WebDriverWait(self.driver, 40).until(
             EC.element_to_be_clickable((By.XPATH, self.doctor_consultation_btn_xpath))
+        ).click()
+
+    def start_shift_btn(self):
+        WebDriverWait(self.driver,40).until(
+            EC.element_to_be_clickable((By.XPATH,self.start_shift_xpath))
         ).click()
 
     def slot_time(self):

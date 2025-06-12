@@ -29,6 +29,7 @@ class Test_03_book_appointment:
         self.book_appmt = Book_Appointment(self.driver)
         self.book_appmt.select_role()
         self.book_appmt.doctor_consultation_btn()
+        self.book_appmt.start_shift_btn()
         self.book_appmt.slot_time()
         self.book_appmt.patient_search("Prashant")
         self.book_appmt.select_patient()

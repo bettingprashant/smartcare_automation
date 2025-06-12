@@ -624,3 +624,19 @@
 2025-06-10 12:03:59::INFO::******************Test_03_Appointment_Booking_Started*********************
 2025-06-10 12:04:13::INFO::***********Login completed *************
 2025-06-10 12:04:13::INFO::***********Starting Appointment Booking*************
+2025-06-10 12:08:45::INFO::******************Test_03_Appointment_Booking_Started*********************
+2025-06-10 12:09:00::INFO::***********Login completed *************
+2025-06-10 12:09:00::INFO::***********Starting Appointment Booking*************
+2025-06-10 12:10:25::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-06-10 12:10:40::INFO::***********Login completed *************
+2025-06-10 12:10:40::INFO::***********starting add customer test *************
+2025-06-10 12:11:28::INFO::***************test valid smartcare login started*******************
+2025-06-10 12:11:42::INFO::**************test verification title matched********************
+2025-06-11 11:21:44::INFO::******************Test_03_Appointment_Booking_Started*********************
+2025-06-11 11:21:59::INFO::***********Login completed *************
+2025-06-11 11:21:59::INFO::***********Starting Appointment Booking*************
+2025-06-11 11:23:26::INFO::******************Test_02_Create_New_Patient_Started*********************
+2025-06-11 11:23:41::INFO::***********Login completed *************
+2025-06-11 11:23:41::INFO::***********starting add customer test *************
+2025-06-11 11:24:28::INFO::***************test valid smartcare login started*******************
+2025-06-11 11:24:44::INFO::**************test verification title matched********************
